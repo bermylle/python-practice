@@ -1,5 +1,5 @@
 class Solution(object):
-    a = 5
+    a = 123
 
     def climbStairs(n):
 
